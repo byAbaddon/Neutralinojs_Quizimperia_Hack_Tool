@@ -20,7 +20,8 @@ https://youtu.be/LGxLAAflf5A
 
 ## Screenshots:
 
-
+### Prerequisites
+- [NeutralinoJS](https://neutralino.js.org) Build lightweight cross-platform desktop apps with JavaScript, HTML, and CSS
 
 #### Year:
 2024
