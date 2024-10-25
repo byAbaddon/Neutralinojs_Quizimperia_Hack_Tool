@@ -1,6 +1,6 @@
 # Neutralinojs_Quizimperia_Hack_Tool
 ## Quizimperia Hack Tool
-## Image - Text - Question - Answer
+## Hack - Question - Answer
 
 ### Created a project using:
 + Neutralinojs
