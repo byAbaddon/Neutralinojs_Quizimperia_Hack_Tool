@@ -11,7 +11,7 @@
 Just follow the instructions!
 
 ### Info:
-A tool for entertainment and fun!
+A tool for entertainment and fun! </br>
 It "injects" code to retrieve the correct answers from the Quizimperia game and display them in the results box. With this tool, any player becomes practically invincible. Enjoy yourself
 
 
