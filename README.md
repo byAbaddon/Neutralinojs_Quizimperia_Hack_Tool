@@ -14,6 +14,8 @@ Just follow the instructions!
 A tool for entertainment and fun! </br>
 It "injects" code to retrieve the correct answers from the Quizimperia game and display them in the results box. With this tool, any player becomes practically invincible. Enjoy yourself
 
+### Download AppImage
+https://github.com/byAbaddon/Neutralinojs_Quizimperia_Hack_Tool/releases/tag/Quizimperia_Hack_Tool
 
 ## Short video intro:
 https://youtu.be/LGxLAAflf5A
